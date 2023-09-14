@@ -22,10 +22,10 @@
         ]
     },
     {
-        "file": "chilli.dlc", 
-        "title": "Chilli",
+        "file": "homo.dlc", 
+        "title": "Homoph",
         "buttons": [
-            { "title": "Chilli ", "action": [75,0,4,4] }
+            { "title": "Homoph ", "action": [75,0,0,3] }
         ]
     }
 ]
