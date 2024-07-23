@@ -22,10 +22,10 @@
         ]
     },
     {
-        "file": "homo.dlc", 
-        "title": "Homoph",
+        "file": "german.dlc", 
+        "title": "German",
         "buttons": [
-            { "title": "Homoph ", "action": [75,0,0,3] }
+            { "title": "German ", "action": [75,0,0,3] }
         ]
     }
 ]
